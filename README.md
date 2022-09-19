@@ -1,5 +1,4 @@
 ### 👨🏾 Ernest Maitland
-<hr />
 <ul>
  <li> 📧 maitlandeg@gmail.com </li>
  <li>💼 www.linkedin.com/in/ernestgmaitland </li>
@@ -7,8 +6,8 @@
 
 
 
-### Introduction
-<hr />
+## Introduction
+
 My name is Ernest Maitland and I am a developer seeking my first role in tech. I have worked as an Accountant for non-profits and an agriculture business and learned how important quality software is to improving efficiency and productivity. I am eager to learn new skills as I start my journey into software development. Thanks for stopping by!
 
 ## Skills
