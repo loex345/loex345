@@ -1,4 +1,5 @@
 ### 👨🏾 Ernest Maitland
+<hr />
 <ul>
  <li> 📧 maitlandeg@gmail.com </li>
  <li>💼 www.linkedin.com/in/ernestgmaitland </li>
