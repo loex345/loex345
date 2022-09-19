@@ -1,4 +1,4 @@
-### 👨🏾 Ernest Maitland
+ ### 👨🏾 <center>Ernest Maitland</center> 
 <hr />
 <ul>
  <li> 📧 maitlandeg@gmail.com </li>
