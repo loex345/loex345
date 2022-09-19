@@ -9,11 +9,11 @@ My name is Ernest Maitland and I am a developer seeking my first role in tech. I
 ## Skills
 <hr />
 <ul>
-- 🔺 **Languages**: Javacript and Python
-- 🔺 **Frontend**: HTML, CSS, React 
-- 🔺 **Backend**: Express, Django, Node 
-- 🔺 **Database**: Mongo, Postgres
-- 🔺 **API Formats**: REST
+  <li>🔺 <em>Languages</em> : Javacript and Python </li>
+  <li>🔺 <em>Frontend</em> : HTML, CSS, React </li>
+  <li>🔺 <em>Backend</em> : Express, Django, Node </li> 
+  <li>🔺 <em>Database</em> : Mongo, Moogoose, Postgres </li>
+  <li>🔺 <em>API Formats</em> : REST </li>
 </ul>
 
 <!--
