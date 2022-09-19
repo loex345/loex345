@@ -8,6 +8,11 @@ My name is Ernest Maitland and I am a developer seeking my first role in tech. I
 
 ## Skills
 <hr />
+🔺 **Languages**: Javacript and Python
+🔺 **Frontend**: HTML, CSS, React 
+🔺 **Backend**: Express, Django, Node 
+🔺 **Database**: Mongo, Postgres
+🔺 **API Formats**: REST
 
 <!--
 **loex345/loex345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
