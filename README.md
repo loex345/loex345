@@ -9,7 +9,7 @@
 
 ## Introduction
 
-My name is Ernest Maitland and I am a developer seeking my first role in tech. In my work as an Accountant for non-profits and an agriculture business and I learned how important quality software is to improving efficiency and productivity. I am eager to learn new skills as I look to combine my skills with accounting provide more robust solutions. Thanks for stopping by!
+My name is Ernest Maitland and I am a developer seeking my first role in tech. In my work as an Accountant for non-profits and an agriculture business and I learned how important quality software is to improving efficiency and productivity. I am eager to learn new skills as I look to combine my accounting & programming skills to provide more robust solutions. Thanks for stopping by!
 
 ## Skills
 <ul>
